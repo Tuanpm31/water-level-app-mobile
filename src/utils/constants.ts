@@ -1,0 +1,11 @@
+const constants = {
+  MAX_WATER_HEIGHT: 1000,
+  MIN_WATER_HEIGHT: 0,
+  YELLOW_WARNING: 700,
+  RED_WARNING: 800,
+  ALREADY_FULL: 900,
+  YEALLOW_MIN_WARNING: 300,
+  ALREADY_EMPTY: 100
+}
+
+export default constants;
