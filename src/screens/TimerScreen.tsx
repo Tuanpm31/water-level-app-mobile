@@ -7,7 +7,7 @@ import colors from '../utils/colors';
 import moment from 'moment';
 
 
-const URL_REQUEST = "http://40.127.85.53:8080/add-job"
+const URL_REQUEST = "http://34.126.76.190/add-job"
 
 function TimerScreen({navigation}) {
   const [isDatePickerStartVisible, setDatePickerStartVisibility] = useState(false);
